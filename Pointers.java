@@ -1,0 +1,2 @@
+//why there is no concept of pointer in java?
+//Java does not have the concept of pointers to avoid direct memory access, which improves security, simplicity, and reliability. Instead of pointers, Java uses object references with automatic garbage collection, preventing memory errors and making programs portable and safe.
